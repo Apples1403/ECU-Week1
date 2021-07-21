@@ -8,5 +8,5 @@ echo "Hi There!"
 
 #exit with error code 0
 
-exit 0
+exit 22
 
